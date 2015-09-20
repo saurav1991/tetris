@@ -1,6 +1,7 @@
 # tetris
 
 Simple text based tetris games. Below are the allowed moves
+
 a (return): move piece left
 
 d (return): move piece right
